@@ -25,6 +25,7 @@ The following **stretch** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [x] The user can click on any movie to get an activity with the Backdrop Image
 
 ## Video Walkthrough
 
